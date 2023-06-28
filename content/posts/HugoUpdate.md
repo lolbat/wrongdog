@@ -1,7 +1,7 @@
 ---
 title: "Hugo Workflow update"
 date: 2023-06-27T18:33:02-06:00
-draft: true
+draft: false
 description: "I updated my Hugo Workflow for Alfred but not without a few issues cropping up."
 tags:
     - Alfred
