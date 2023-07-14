@@ -19,7 +19,7 @@ Originally this post was going to be an exploration of why this is the case but 
 
 John Gruber wrote a short piece this morning titled [Adware for Apple Services in iOS](https://daringfireball.net/2023/04/ios_adware). In it he says:
 
-> One thing that’s clear is that Apple sees Music and TV as Apple-service properties. Yes, you can use them for listening to your own music and watching your own video files, but first and foremost these are client apps to Apple’s Music and TV+ services. 
+> One thing that is clear is that Apple sees Music and TV as Apple-service properties. Yes, you can use them for listening to your own music and watching your own video files, but first and foremost these are client apps to Apple’s Music and TV+ services. 
 
 Earlier I was looking for an article where the author described all of the UI/UX problems with Apple Music. The writer had some very good points but I think that Gruber takes that article and creates a ten word consommé  that defines the problem. 
 

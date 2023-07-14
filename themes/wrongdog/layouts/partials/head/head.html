@@ -24,6 +24,12 @@
         {{ printf `<link href="%s" rel="%s" type="%s" title="%s" />` .Permalink .Rel .MediaType.Type $.Site.Title | safeHTML }}
     {{ end -}}
 
+    <!-- tell Google to fuck off -->
+    <meta name="Googlebot" content="noindex, nofollow, noimageindex">
+
+    <!-- and Bing while we are at it -->
+    <meta name="msnbot" content="noindex, nofollow, noimageindex">
+
     <!-- add a direct Twitter card link -->
     <meta name="twitter:image" content="https://whatiswrongwithyourdog.netlify.com/og/twittika.jpg"/>
     <meta name="twitter:title" content="Twitter is run by a Nazi" />
