@@ -1,5 +1,5 @@
 ---
-title: "Ooh1 Directory"
+title: "Ooh! Directory"
 type: "Link"
 link: "https://ooh.directory/"
 Desc: "A directory of blogs and writing on many subjects. Has a fun 'random' blog feature. "
