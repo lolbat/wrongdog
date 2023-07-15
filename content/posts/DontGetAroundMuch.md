@@ -1,12 +1,12 @@
 ---
-title: "Don't get around much anymore"
+title: Don't get around much anymore
 date: 2023-07-15T15:48:33-06:00
-draft: true
-description:
+draft: false
+description: I still want to write but my mental health has been a drag on my ability to write.
 tags:
-    - depression
-    - writing
-    - ADHD
+  - depression
+  - writing
+  - ADHD
 ---
 
 It has been a while since I posted anything here and that is almost entirely to do with being in the midst of an extensive bout of depression. For the last few weeks I have been quite unable to do anything other than walk the dog and play game after game of [Monster Train](https://www.themonstertrain.com/) and [Dominions 5](https://www.illwinter.com/dom5/). I have also read a few novels.
