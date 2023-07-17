@@ -99,7 +99,7 @@ pre {
 /* Sidebar links */
 .sidebar a {
   color: var(--sidebar-a-color);
-  padding-top: .25em;
+  padding-top: .125em;
 }
 
 /* About section */
@@ -111,14 +111,14 @@ pre {
   color: var(--sidebar-h1-color);
   margin-top: 0;
   font-weight:600;
-  font-size: 1.25em;
+  font-size: 1.125em;
   font-family: sans-serif;
 }
 
 /* Sidebar nav */
 .sidebar-nav {
-  margin-top: 2rem;
-  margin-bottom: 2rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
   padding-left: 0;
   list-style: none;
 }
@@ -183,8 +183,8 @@ a.sidebar-nav-item:focus {
 }
 
 .footnote {
-  font-size: 0.7em;
-  margin-top: 0.5rem;
+  font-size: 0.25em;
+  margin-top: 0.125em;
   color: var(--sidebar-p-color);
 }
 
