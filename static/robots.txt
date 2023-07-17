@@ -1,0 +1,23 @@
+User-agent: CCBot
+Disallow: /
+
+User-agent: Googlebot
+Disallow: /
+
+User-agent: Mediapartners-Google*
+Disallow: /
+
+User-agent: Googlebot-Image
+Disallow: /
+
+User-agent: Yahoo-MMCrawler
+Disallow: /
+
+User-agent: Yahoo-slurp
+Disallow: /
+
+User-agent: slurp
+Disallow: /
+
+User-agent: Msnbot
+Disallow: /

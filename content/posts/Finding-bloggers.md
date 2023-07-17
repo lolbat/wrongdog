@@ -61,4 +61,4 @@ Check it out. Who knows what you'll find.
 
 [^3]: For the moment.
 
-[^4]: And really have we ever learned anything? George Santayana has probably the most quoted aphorism of all time and also the least understood. 
+[^4]: And really have we ever learned anything? George Santayana has probably the most quoted aphorism of all time and also the least understood. Or perhaps the least acted upon.
