@@ -60,9 +60,9 @@ The internet is at once the best and the worst of our culture and it only ever s
 
 [^4]:	No mention if these are individual sites or if they count someone like Hive Media or Vox Media as a single publisher. 
 
-[^5]:	I was hired by a local artist to rework their website which had been created by an SEO marketing firm that created a site for them. It had weekly content posted created for her and posted that was only tangentially related to her products and was clearly being written to just generate SEO traffic. She wanted a site to sell their art and instead got a content blog focused only on SEO patterns. 
+[^5]:	I was hired by a local artist to rework their website which had been created by an SEO marketing firm that created a site for them. It had weekly content created for her and posted that was only tangentially related to her products and was clearly being written to just generate SEO traffic. She wanted a site to sell their art and instead got a content blog focused only on SEO patterns. 
 
-[^6]:	I signed up for Compuserve  only to get access to copies of Kai's Power Tools documents for Photoshop. Which were available for "free" on the service. 
+[^6]:	I signed up for Compuserve only to get access to copies of Kai's Power Tools documents for Photoshop. Which were available for "free" on the service. 
 
 [1]:	https://en.wikipedia.org/wiki/Taboola
 [2]:	https://en.wikipedia.org/wiki/Chumbox
