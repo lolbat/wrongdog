@@ -1,8 +1,8 @@
 ---
 title: A new theme approaches
-description: "Nothing makes you want a new theme like trying to edit the old one."
+description: Nothing makes you want a new theme like trying to edit the old one.
 date: 2023-07-19T16:15:01.809Z
-draft: true
+draft: false
 tags:
   - CSS
   - Hugo
