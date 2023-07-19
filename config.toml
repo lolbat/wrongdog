@@ -12,9 +12,9 @@ copyright = 'This work is licensed under the CC BY-NC-ND 4.0 license. https://cr
 
 [markup]
     [markup.highlight]
-    linenos = true
-    lineNumbersInTable = false
-    noClasses = false
+        linenos = true
+        lineNumbersInTable = false
+        noClasses = false
 
 [params]
     images = ['og/blogimage.jpg']
@@ -29,10 +29,6 @@ copyright = 'This work is licensed under the CC BY-NC-ND 4.0 license. https://cr
         {Name = "Tools", URL = "/tools/", HasChildren = false, Icon="tool.svg"},
         {Name = "Recent Posts", URL = "/posts/", HasChildren = true, Limit = 7, Icon="file-text.svg"}
     ]
-
-    # Links to your socials.  Delete any you don't need/use.
-    codeberg_url = "https://codeberg.org/lolbat"
-    github_url = "https://github.com/lolbat"
 
     # Hex colors for your sidebar.
     sidebar_bg_color = "#202020"

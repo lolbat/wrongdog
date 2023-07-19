@@ -87,7 +87,7 @@ People worry about search engines being flooded with even more ad-bait content f
 
 My worry is that at some point in the future the combination of LLM systems and MBAs with no social conscience will lead to an internet that is divided between sites that are nothing more than wordy catalogue entries for online retailers and small blogs, like this one, that no-one can find. 
 
-_If you are interested I [posted a zip](/affiliate.zip) file with the article titles and spreadsheets I used to create the data in this post._ 
+_If you are interested I [posted a zip](/downloads/affiliate.zip) file with the article titles and spreadsheets I used to create the data in this post._ 
 
 [^1]: Or at least in the US. I don't think that as many people in Canada use Prime. I have no clue how popular it is in Europe or the UK. 
 
