@@ -3,7 +3,11 @@
     {{ range where .Paginator.Pages "Section" "eq" "posts" }}
     <article class="post">
         {{ partial "post/info.html" . }}
-        {{ .Summary }}
+        {{ if .Description }}
+            <div class="post-summary">{{ .Description }}</div>
+        {{ else }}
+            <div class="post-summary">{{ .Summary }}</div>
+        {{ end }}
         {{ if .Truncated }}
         <div class="read-more-link">
             <a href="{{ .RelPermalink }}">Read More…</a>

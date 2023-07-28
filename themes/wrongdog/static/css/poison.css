@@ -101,6 +101,20 @@ img.alignImg {
     font-size: 0.9em;
 }
 
+.read-more-link {
+    font-size: 0.75em;
+}
+
+.read-more-link, .post-summary {
+    padding-left: 1em;
+}
+
+.info time {
+    font-style: italic;
+    font-size: .75em;
+    margin-top:0;
+}
+
  /* Handles dark/light themes */
 h1, h2, h3, h4, h5, strong {
     color: var(--text-color);
