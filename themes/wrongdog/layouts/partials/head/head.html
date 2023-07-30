@@ -24,6 +24,9 @@
         {{ printf `<link href="%s" rel="%s" type="%s" title="%s" />` .Permalink .Rel .MediaType.Type $.Site.Title | safeHTML }}
     {{ end -}}
 
+    <!-- link for IndieAuth-->
+    <link href="https://codeberg.org/lolbat" rel="me">
+
     <!-- tell Google to fuck off -->
     <meta name="Googlebot" content="noindex, nofollow, noimageindex">
 
