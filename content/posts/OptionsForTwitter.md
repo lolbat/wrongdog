@@ -14,6 +14,8 @@ A part of putting your content on the web is that its open nature means that you
 
 You can send them a message though.
 
+**Update: it appears that Messages on iOS and MacOS uses the `twitter:image` tag from pages to generate a preview so this isn't a usable solution. I am going to look to see if there are options to use in Messages.**
+
 ## Open Graph
 
 I have been working on, finally, adding [Open Graph](https://ogp.me/) support to my blog. I had title and description support added but I wanted to finally add images. Or at least a default image.  While I was [testing the image](https://opengraph.dev/) that I made, I noticed that there were distinct Twitter card tags that the page was checking for. This seemed like an opportunity to say to the people that are still using the site.
