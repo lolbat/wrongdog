@@ -21,3 +21,6 @@ Disallow: /
 
 User-agent: Msnbot
 Disallow: /
+
+User-agent: GPTBot
+Disallow: /
