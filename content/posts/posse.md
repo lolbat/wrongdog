@@ -2,7 +2,7 @@
 title: Use POSSE to expand the reach of your content
 description: How to control your content and use social media as a syndication tool.
 date: 2023-09-10T21:18:35.292Z
-draft: true
+draft: false
 tags:
   - Advertising
   - Blogging
