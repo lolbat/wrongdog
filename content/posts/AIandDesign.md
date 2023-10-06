@@ -44,7 +44,7 @@ Now it isn't going to eat everyone's job's just yet. For some reason my prompt f
 
 Lead to this image which is clearly not a bear. 
 
-![A bear/dog hybrid creature sitting in front of a birthday cake.](/images/bear?.jpg)
+![A bear/dog hybrid creature sitting in front of a birthday cake.](/images/notABear.jpg)
 
 Where the image generator in the Designer product failed, the Image Generator did a much better job but it missed out on the "realistic" prompt.
 
