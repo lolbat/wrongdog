@@ -1,8 +1,8 @@
 ---
 title: One Deck Galaxy game changes
 description: "One Deck Dungeon is a new title from Asmadi Games that expands the system used in One Deck Dungeon. It has several major changes from the ODD rules that make it a much more strategic game."
-date: 2023-08-08T15:44:07.218Z
-draft: true
+date: 2023-10-26T09:59:55-06:00
+draft: false
 images:
   - og/OneDeckGalaxy.jpg
 tags:
