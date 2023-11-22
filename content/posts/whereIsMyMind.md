@@ -1,7 +1,7 @@
 ---
 title: "Where is my mind"
 date: 2023-11-22T09:57:44-07:00
-draft: true
+draft: false
 description: An update on the fuzzy and imprecise thing that is my brain.
 images:
   - og/mind.jpg
