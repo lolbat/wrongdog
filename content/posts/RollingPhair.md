@@ -1,7 +1,7 @@
 ---
 title: "Rolling Phair"
 date: 2023-12-30T10:15:02-07:00
-draft: true
+draft: false
 description: If Exile in Guyville was supposedly inspired by the Rolling Stones' Exile on Main St. It is difficult to see how this is the case given how bad Exile on Main St. actually is.
 tags:
     - Rolling Stones
