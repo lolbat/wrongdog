@@ -1,8 +1,8 @@
 ---
 title: "Goodbye iPad"
 date: 2024-05-19T11:08:38-06:00
-draft: true
-description: "When does a device become too much of a burden to use? The iPad is a great example of how neglect can make something more of a pain to use than to keep"
+draft: false
+description: "When does a device become too much of a burden to use? The iPad is a great example of how neglect can make something more of a pain to use than to keep."
 tags:
     - iOS
     - iPad
@@ -31,4 +31,34 @@ We even now have games like [Kingdom Rush](https://www.kingdomrush.com/) that ar
 
 ## Bugs
 
-## App experience
+Bugs are a fact of life. Especially in complicated apps and OSes. What is new, at least for Apple, is bugs being unacknowledged and then fixed without notice. Even better is bugs being quietly fixed and then reappearing in a later update. My iPad drops its Wifi connection on a daily basis. It usually only does this when I am streaming a game or a TV show. At least that is when I notice it. It used to do this quite a lot but there was an iOS update (17.2 IIRC) that was supposed to have fixed it. It didn't really fix it as much as make it less common.
+
+The Books app on iOS has, for years, been unable to download files while on a cellular connection. Even if you explicitly enable it in the Cellular settings. iOS 17.? fixed the problem but two updates later it appeared again. This is annoying as hell but combined with the OS removing files from your phone or iPad with no notice it combines to make it almost impossible to read books on an iOS device without a Wifi connection. Which then drops without notice when you least expect it.
+
+These "quality of life" issues don't seem to get much attention from Apple. The Apple support forums are filled with posts from people that have issues with their iOS devices but no acknowledgment from Apple about them. Its like they just don't care.
+
+Lets not even get me started on iCloud.
+
+## Usability
+
+One of the common refrains you see online is "Does anyone at Apple even use &lt;application name&gt;?". I would extend this to the entire OS. In iOS 16 I was frequently opening up new application windows with no easy way to close them. Safari was particularly notorious for this. iOS 17 helped fix this problem but now  find that I open the window management controls whenever I tap at the top of the screen. Apparently the best place for a window dropdown menu was in the middle of the top of the app window.
+
+I also still find that I do "something" with my fingers and it results in switching to a new app. I have tried to disable as many of the multitasking gestures as I could but this still happens more often than it should. iOS, especially Safari, seems to be filled with hidden features that get accidentally enabled and then you are unable to stop them without removing the app from memory. This seems like an enormous failure.
+
+## No-one seems to care
+
+The  overall impression I get of the iPad and iOS is that Apple thinks that it can continue to drive sales with update tech specs and doesn't really seem to care if the device is actually usable. Or at least not an annoyance. I remember a few MacOS updates that were released "in the good old days" that were specifically focused on improving speed and fixing bugs. No new major features were added and Apple just focused on making the OS better. That seems like a pipe-dream now. The cameras get bigger and better. The CPUs get faster and smaller. And yet the UX and UI remain mired in the same years-old shit.
+
+I think that the breaking point for me was when Apple excitedly announced that the Clock app in iOS would support multiple timers. This is "part two" in a first year comp-sci assignment in OOP programming. Apple should have been embarrassed that it took them so long to add something so basic to the OS. Instead they trumpeted it as a major new feature in iOS 17. Clearly no-one who cares still works for Apple and the ones that remain are trying to come up with any justification to get people to upgrade their devices.
+
+## The plan
+
+I am not one of those folks who try to do work on my iPad. I don't see the point. I have a laptop that is faster, and better equipped, at doing that sort of thing. Most of my iPad use breaks down into a few categories:
+* games
+* reading
+* streaming sports or video
+* browsing the web
+
+My next purchase is going to be a Kobo or Boox e-reader. Whichever one allows me to read epub and cbr files. Since my Mac doesn't appear to be affected by the same Wifi bug as my iPad it will easily let me watch MLB games and the odd movie. It does a better job of browsing the web already. The only thing that my iPad has better access to are games and really I could probably just spend more time reading or working instead of playing endless rounds of Loop Hero. It will also let me use Calibre to manage to books and cbr files.
+
+Thankfully, for some odd reason, the iPad still retains its resale value. Finally something that it does well.
