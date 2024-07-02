@@ -1,7 +1,7 @@
 ---
 title: "Please just don't use pip"
 date: 2024-07-02T10:29:39-06:00
-draft: true
+draft: false
 description: Given the issues that surround it, why do so many articles, docs and posts tell people to install pip packages globally?
 tags:
     - Python
