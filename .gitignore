@@ -4,3 +4,5 @@ public/
 frontmatter.json
 .frontmatter/database/mediaDb.json
 *.json
+.obsidian/
+templates/
