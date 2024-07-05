@@ -9,6 +9,7 @@ tags:
   - Search Engines
   - Social Media
   - Wordpress
+  - POSSE
 ---
 
 Social media is seen as the best way to connect with users who might want to engage with your content and your company. At least this is what the social media companies will tell you. As well as the ancillary companies that sell services to help you promote your content on social media.
