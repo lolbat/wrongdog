@@ -3,6 +3,8 @@ title: "Battle of the Ancients overview"
 date: 2024-07-12T15:59:32-06:00
 draft: true
 description: Want to play a board game that has magic, science, aliens, mutants, multiple game modes and different types of scenarios? Then you will want to check out Dark Venture: Battle of the Ancients? If you can track a copy down.
+images:
+  - og/bota.jpg
 tags:
     - Dark Venture
     - Battle of the Ancients
