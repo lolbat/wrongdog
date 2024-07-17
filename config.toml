@@ -23,12 +23,15 @@ copyright = 'This work is licensed under the CC BY-NC-ND 4.0 license. https://cr
     brand_image = "/images/Dog3.png"
     description = "A blog of writing that is rarely about dogs."
     dark_mode = false
+    mastodon_url = "https://hachyderm.io/@ZacBelado"
+    codeberg_url  = "https://codeberg.org/lolbat"
     menu = [
         {Name = "About", URL = "/about/", HasChildren = false, Icon="info.svg"},
         {Name = "Links", URL = "/links/", HasChildren = false, Icon="list.svg"},
         {Name = "Tools", URL = "/tools/", HasChildren = false, Icon="tool.svg"},
         {Name = "Recent Posts", URL = "/posts/", HasChildren = true, Limit = 7, Icon="file-text.svg"}
     ]
+
 
     # Hex colors for your sidebar.
     sidebar_bg_color = "#202020"
