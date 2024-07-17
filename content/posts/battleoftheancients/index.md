@@ -1,8 +1,11 @@
 ---
 title: "Battle of the Ancients overview"
 date: 2024-07-12T15:59:32-06:00
-draft: true
-description: Want to play a board game that has magic, science, aliens, mutants, multiple game modes and different types of scenarios? Then you will want to check out Dark Venture: Battle of the Ancients? If you can track a copy down.
+draft: false
+description: Want to play a board game that has magic, science, aliens, mutants, multiple game modes and different types of scenarios? Then you will want to check out Battle of the Ancients?
+series:
+  - Battle of the Ancients
+seriesTitle: "Overview"
 images:
   - og/bota.jpg
 tags:
@@ -15,7 +18,7 @@ tags:
 
 ![Battle of the Ancients cover](cover_round.png "The cover from the Dark Venture: Battle of the Ancients board game")
 
-[Dark Venture: Battle of the Ancients](https://boardgamegeek.com/boardgame/298163/dark-venture-battle-of-the-ancients) is a board game produced by [Guilded Skull Games](https://gildedskull.com). Guilded Skull is the nom de entreprise for Rob Lemon an illustrator and game designer from New York. Rob has produced a video game, [Galactic Keep](https://store.steampowered.com/app/587440/Galactic_Keep/) [^2], and a previous board game called [Dark Venture](https://gildedskull.com/darkventure/index.html). Dark Venture: Battle of the Ancients is a followup game to Dark Venture and expands his post-apocalyptic Darkgrange setting with a new game experience that includes solo, co-operative and competitive game modes.
+[Dark Venture: Battle of the Ancients](https://boardgamegeek.com/boardgame/298163/dark-venture-battle-of-the-ancients) is a board game produced by [Guilded Skull Games](https://gildedskull.com). Guilded Skull is the nom de entreprise for Rob Lemon an illustrator and game designer from New York. Rob has produced a video game, [Galactic Keep](https://store.steampowered.com/app/587440/Galactic_Keep/) [^2], and a previous card game called [Dark Venture](https://gildedskull.com/darkventure/index.html). Dark Venture: Battle of the Ancients is a followup game to Dark Venture and expands his post-apocalyptic Darkgrange setting with a new game experience that includes solo, co-operative and competitive game modes.
 
 What follows is an overview of the game and how it plays. This isn't meant as a review. There are some good reviews as well as gameplay videos that you can check out on [the game's BGG page](https://boardgamegeek.com/boardgame/298163/dark-venture-battle-of-the-ancients/videos/all). 
 
