@@ -104,7 +104,7 @@ Each faction also has different numbers of and types of units. The Dhargon have 
 
 ![The Bohmerk units](units.png "All of the available Bohmerk units")
 
-Some of these units can also have special status in the game. The Orpal's **S2D3** unit is called the *Gatemaster* and is required to open rifts. The Kingsguard *Huntsman* can be equipped with bows and the Eggmen can create a *Wizard* they can use to cast spells.
+Some of these units can also have special status in the game. The Orpal's **S2D3** unit is called the _Gatemaster_ and is required to open rifts. The Kingsguard _Huntsman_ can be equipped with bows and the Eggmen can create a _Wizard_ they can use to cast spells.
 
 There is a commonality amongst the factions but they all have unique actions as well as ways of gaining victory points in victory scenarios. The Dhargon can rack up a huge victory scenario score and never interact with any of their opponents. The Orpal are looking to sacrifice prisoners to open large rifts. The Bohmerk want to build up their forces and try to get their **S3D3** unit on the table. 
 
@@ -141,9 +141,6 @@ The number of ways that you can play Battle of the Ancients is incredible. Co-op
 Most people don't focus on the visual design of games as much as I do. It is a side-effect of working as a visual designer. Good visual design can make or break games. [Voidfall](https://boardgamegeek.com/boardgame/337627/voidfall), as an example, would be very difficult to play without the excellent work done on the visual language of the icons. Vuca Simulations make games that that I would never play [due to the complexity of them](https://vucasims.com/collections/available-games/products/1914-nach-paris-breakthrough-series-1) but which I would love to own simply because of how beautiful they look. 
 
 The design in Battle of the Ancients is deceptively simple and calls back to games from the late 70s and early 80s. There is something quite "British" about the design. Some elements, such as the faction mats, are quite busy but still are functional and pleasant to look at. And how the game is able to use all-caps throughout the design without destroying the readability is beyond me. It all works though and the design helps to carry the visual and story themes without being overdone. 
-
-
-
 
 [^1]: The exception being the Kingsguard who are part of a feudal system that rules some parts of the Darkgrange.
 
